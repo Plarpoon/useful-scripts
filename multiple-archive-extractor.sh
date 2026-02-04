@@ -3,6 +3,7 @@
 # Dependencies: unar
 #
 # This script extracts all .zip, .7z, and .rar files in the current directory
+# Adding a top-level directory if missing in the archive.
 
 set -euo pipefail
 
